@@ -1,7 +1,5 @@
 ### Hi there 👋
-Most of my repos are private for obvious reasons.
-Involved in Reverse Engineering.
-Go away NSA!!!
+Most of my repos are private because their private.
 
 <!--
 **SushiDesigner/sushidesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
