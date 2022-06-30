@@ -1,6 +1,5 @@
 ### Hi there 👋
 Most of my repos are private because their private.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushidesigner)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SushiDesigner/sushidesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
