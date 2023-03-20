@@ -1,8 +1,6 @@
 ### Hi there 👋
 Most of my repos are private because their private.
 
-[alosh](https://github.com/aloshTM) was here <3
-
 I own [Meteorite](https://mete0r.xyz/).
 
 A social vibrant community [trailer](https://www.youtube.com/watch?v=mf7kyXSBnZA)
