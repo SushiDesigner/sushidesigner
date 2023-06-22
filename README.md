@@ -1,10 +1,6 @@
 ### Hi there 👋
 Most of my repos are private because their private.
 
-I own [Meteorite](https://mete0r.xyz/).
-
-A social vibrant community [trailer](https://www.youtube.com/watch?v=mf7kyXSBnZA)
-
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
