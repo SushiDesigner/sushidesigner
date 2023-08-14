@@ -1,9 +1,9 @@
 ### Hi there 👋
 Most of my repos are private because their private.
 
-I own [Meteorite](https://mete0r.xyz/).
+:D
 
-A social vibrant community [trailer](https://www.youtube.com/watch?v=mf7kyXSBnZA)
+It's amazing, so amazing, so amazing
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,6 +13,10 @@ A social vibrant community [trailer](https://www.youtube.com/watch?v=mf7kyXSBnZA
 ![M](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![L](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 ![M](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+![S](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![S](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![P](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 <!--
 **SushiDesigner/sushidesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
