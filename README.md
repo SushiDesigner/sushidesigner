@@ -3,7 +3,10 @@ Most of my repos are private because their private.
 
 :D
 
-It's amazing, so amazing, so amazing
+Turn up the lights in here, baby
+Extra bright, I want y'all to see this
+
+Working on some new projects as always :)
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
